@@ -5,7 +5,7 @@ XFlix is a video sharing platform designed to host and share videos with the wor
 ## Live URL
 
 - **Frontend:** [XFlix Frontend](https://example.com)
-- **Backend:** [XFlix Backend](https://example.com/api](https://xflix-node-teqb.onrender.com)
+- **Backend:** [XFlix Backend](https://xflix-node-teqb.onrender.com)
 
 ## Project Overview
 
