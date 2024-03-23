@@ -39,9 +39,9 @@ The development of XFlix involved the application of various skills, including:
 
 ## Images
 
-![XFlix API contract in Postman]([path/to/image1](https://github.com/RutikKulkarni/XFlix-Node-Backend/assets/86470947/740699c5-a2f3-4d9b-9f34-f97b59c08b4d))
+![XFlix API contract in Postman](https://github.com/RutikKulkarni/XFlix-Node-Backend/assets/86470947/740699c5-a2f3-4d9b-9f34-f97b59c08b4d)
 
-![Request variants supported by “GET /v1/videos” endpoint]([path/to/image2](https://github.com/RutikKulkarni/XFlix-Node-Backend/assets/86470947/99946a8d-e774-48c7-9741-66465e9e589d))
+![Request variants supported by “GET /v1/videos” endpoint](https://github.com/RutikKulkarni/XFlix-Node-Backend/assets/86470947/99946a8d-e774-48c7-9741-66465e9e589d)
 
 ## Getting Started
 
